@@ -251,7 +251,8 @@ a:focus {
 }
 
 .content-section {
-    padding-top: 50px;
+    padding-top: 150px;
+    padding-bottom: 150px;
 }
 
 .download-section {
